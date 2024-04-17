@@ -3,6 +3,12 @@
 ## Overview
 Welcome to the Meme Sharing App! This Android application allows users to browse through a collection of memes with a simple and intuitive interface. Users can navigate through memes using the next button and easily share their favorite memes with friends via other apps installed on their device. This project is built using Kotlin, making use of popular libraries like Volley and Glide for efficient network requests and image loading respectively. Additionally, the app leverages the concept of Intents for seamless sharing functionality.
 
+## Screenshots
+![mockup_1](https://github.com/adityabindu/Meme_Sharing_App/assets/85512045/c53ca707-0eb9-4ebd-beb5-b90eb61e6a7b)
+
+![mockup_2](https://github.com/adityabindu/Meme_Sharing_App/assets/85512045/616ea76f-7cdf-4710-9ec6-89a124a8f84b)
+
+
 ## Features
 - **Next Button**: Easily move to the next meme in the collection with just a tap.
 - **Share to Other Apps**: Share your favorite memes with friends via various social media platforms, messaging apps, or any other apps installed on your device.
